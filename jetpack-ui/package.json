@@ -1,8 +1,9 @@
 {
-  "name": "jetpack-ui",
-  "fullName": "jetpack-ui",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "jetpack-ui", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "jetpack-ui", 
+    "id": "jid1-j49ELojErd5wVA", 
+    "description": "a basic add-on"
 }
